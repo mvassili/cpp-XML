@@ -1,0 +1,2 @@
+Die Filmdatenbank "Jetflix" fügt gerade neue Filme zu ihrer Datenbank hinzu bzw. erweitert diese um spezifische Informationen zu einzelnen Filmen. Ein Mitarbeiter hat in einer txt.-Datei, neben den bereits in der Datenbank aufgezählten Filmen, einzelne Personen angefügt, die an diesen Filmen beteiligt waren und ihre Art der Beteiligung - also ihre Funktion - notiert.
+Nun soll eine Software diese Daten zu der XML-Datenbank hinzufügen. Die Angaben zu den einzelnen Filmen können durch eine Eingabe über das Benutzer-Interface im Menü angezeigt werden. 

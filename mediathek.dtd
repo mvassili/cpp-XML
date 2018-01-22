@@ -1,0 +1,17 @@
+<!ELEMENT mediathek (film+)>
+<!ELEMENT film (image, genre, jahr, name, person+, land+, sprache+, laenge)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT genre (oberbegriff, subgenre?)>
+<!ELEMENT oberbegriff (#PCDATA) >
+<!ELEMENT subgenre (#PCDATA) >
+<!ELEMENT jahr (#PCDATA) >
+<!ELEMENT name (titel, originaltitel?) >
+<!ELEMENT titel (#PCDATA) >
+<!ELEMENT originaltitel (#PCDATA) >
+<!ELEMENT person (#PCDATA) >
+<!ELEMENT land (#PCDATA) >
+<!ELEMENT sprache (#PCDATA) >
+<!ELEMENT laenge (#PCDATA) >
+
+<!ATTLIST jahr jahrzehnt CDATA #REQUIRED >
+<!ATTLIST person funktion CDATA #REQUIRED >

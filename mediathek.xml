@@ -1,0 +1,98 @@
+<mediathek>
+    <film>
+        <image>bilder/scream.jpg</image>
+        <genre>
+            <oberbegriff>Horror</oberbegriff>
+            <subgenre> Horrorkomoedie </subgenre>
+        </genre>
+        <jahr jahrzehnt="1990er">1996</jahr>
+        <name>
+            <titel>Scream - Schrei!</titel>
+            <originaltitel>Scream</originaltitel>
+        </name>
+        <person funktion="Regisseur">Wes Craven</person>
+        <person funktion="Schauspieler">Liev Schreiber</person>
+        <land>USA</land>
+        <sprache>Englisch</sprache>
+        <laenge>111 Minuten</laenge>
+    </film>
+    <film>
+        <image>bilder/bttf.jpg</image>
+        <genre>
+            <oberbegriff>Komoedie</oberbegriff>
+            <subgenre>Schience-Fiction-Komoedie</subgenre>
+        </genre>
+        <jahr jahrzehnt="1980er">1985</jahr>
+        <name>
+            <titel>Zurück in die Zukunft</titel>
+            <originaltitel>Back to the Future</originaltitel>
+        </name>
+        <person funktion="Schauspieler">Michael J. Fox</person>
+        <land>USA</land>
+        <sprache>Englisch</sprache>
+        <laenge>116 Minuten</laenge>
+    </film>
+    <film>
+        <image>bilder/lebowski.jpg</image>
+        <genre>
+            <oberbegriff>Komoedie</oberbegriff>
+        </genre>
+        <jahr jahrzehnt="1990er">1998</jahr>
+        <name>
+            <titel>The Big Lebowski</titel>
+        </name>
+        <person funktion="Regisseur">Joel Coen</person>
+        <land>USA</land>
+        <land>GB</land>
+        <sprache>Englisch</sprache>
+        <laenge>117 Minuten</laenge>
+    </film>
+    <film>
+        <image>bilder/dusk.jpg</image>
+        <genre>
+            <oberbegriff>Komoedie</oberbegriff>
+            <subgenre>Horrorkomoedie</subgenre>
+        </genre>
+        <jahr jahrzehnt="1990er">1996</jahr>
+        <name>
+            <titel>From Dusk Till Dawn</titel>
+        </name>
+        <person funktion="Regisseur">Robert Rodriguez</person>
+        <land>USA</land>
+        <sprache>Englisch</sprache>
+        <sprache>Spanisch</sprache>
+        <laenge>104 Minuten</laenge>
+    </film>
+    <film>
+        <image>bilder/zombieland.jpg</image>
+        <genre>
+            <oberbegriff>Komoedie</oberbegriff>
+            <subgenre>Horrorkomoedie</subgenre>
+        </genre>
+        <jahr jahrzehnt="2000er">2009</jahr>
+        <name>
+            <titel>Zombieland</titel>
+        </name>
+        <person funktion="Regisseur">Ruben Fleischer</person>
+        <person funktion="Schauspieler">Jesse Eisenberg</person>
+        <land>USA</land>
+        <sprache>Englisch</sprache>
+        <laenge>88 Minuten</laenge>
+    </film>
+    <film>
+        <image>bilder/brian.jpg</image>
+        <genre>
+            <oberbegriff>Komoedie</oberbegriff>
+            <subgenre>Satire</subgenre>
+        </genre>
+        <jahr jahrzehnt="1970er">1979</jahr>
+        <name>
+            <titel>Das Leben des Brian</titel>
+            <originaltitel>Monty Python's Life of Brian</originaltitel>
+        </name>
+        <person funktion="Regisseur">Terry Jones</person>
+        <land>GB</land>
+        <sprache>Englisch</sprache>
+        <laenge>94 Minuten</laenge>
+    </film>
+</mediathek>

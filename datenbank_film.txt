@@ -1,0 +1,8 @@
+Film	Person	Funktion
+
+Scream	Neve Campbell	Schauspieler
+Zurück in die Zukunft	Robert Zemeckis	Regisseur
+The Big Lebowski	Ethan Coen Regisseur
+From Dusk Till Dawn	Quentin Tarantno	Drehbuch
+Zombieland	Woody Harrelson	Schauspieler
+Das Leben des Brian	Monty Python	Drehbuch
